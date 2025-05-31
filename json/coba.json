@@ -1,0 +1,30 @@
+[
+    {
+        "nama" : "Nafil Maezi",
+        "umur" : 21,
+        "nim"  : "2217020170",
+        "lulus" : true,
+        "hobby" : [
+                "coding",
+                "gaming"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Haditya Prasetyo",
+            "pembimbing2" : "Ozzy Secio Riza"
+        }
+    },
+    {
+        "nama" : "Nafil",
+        "umur" : 21,
+        "nim"  : "2217020170",
+        "lulus" : true,
+        "hobby" : [
+                "watch movies",
+                "gaming"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Haditya Prasetyo",
+            "pembimbing2" : "Ozzy Secio Riza"
+        }
+    }
+]
