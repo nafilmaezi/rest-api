@@ -84,7 +84,7 @@ $followersIG = $result['followers_count'];
         <div class="text-center">
           <img src="img/profile1.png" class="rounded-circle img-thumbnail">
           <h1 class="display-4">Nafil Maezi</h1>
-          <h3 class="lead">Student | Programmer | Youtuber</h3>
+          <h3 class="lead">College Student | Programmer | Game Enthusiast</h3>
         </div>
       </div>
     </div>
@@ -100,10 +100,10 @@ $followersIG = $result['followers_count'];
         </div>
         <div class="row justify-content-center">
           <div class="col-md-5">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, molestiae sunt doloribus error ullam expedita cumque blanditiis quas vero, qui, consectetur modi possimus. Consequuntur optio ad quae possimus, debitis earum.</p>
+            <p>Saya Nafil Maezi Mahasiswa Universitas Negeri Islam Imam bonjol Padang.</p>
           </div>
           <div class="col-md-5">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, molestiae sunt doloribus error ullam expedita cumque blanditiis quas vero, qui, consectetur modi possimus. Consequuntur optio ad quae possimus, debitis earum.</p>
+            <p>Hobi saya bermain game, menonton tv series, dan mendengarkan musik.</p>
           </div>
         </div>
       </div>
@@ -291,7 +291,7 @@ $followersIG = $result['followers_count'];
       <div class="container">
         <div class="row">
           <div class="col text-center">
-            <p>Copyright &copy; 2018.</p>
+            <p>Copyright &copy; 2025.</p>
           </div>
         </div>
       </div>

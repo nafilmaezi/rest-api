@@ -19,10 +19,10 @@
   }
 </style>
 <!-- Jumbotron -->
-<div class="jumbotron text-center bg-dark text-white py-5" id="home" style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);">
-  <img src="<?= base_url(); ?>assets/img/usran.jpg" class="rounded-circle img-thumbnail shadow-lg mb-3" style="width: 200px; height: 200px;">
-  <h1 class="display-4">Usran Bangun Fajar Hutagalung</h1>
-  <h3 class="lead">Information System Student | Programmer | Public Speaker</h3>
+<div class="jumbotron text-center bg-dark text-white py-5" id="home" style="background: linear-gradient(135deg, #669900 0%, #88bb11 100%);">
+  <img src="<?= base_url(); ?>assets/img/profile1.png" class="rounded-circle img-thumbnail shadow-lg mb-3" style="width: 200px; height: 200px;">
+  <h1 class="display-4">Nafil Maezi</h1>
+  <h3 class="lead">College Student | Programmer | Gaming Enthusiast</h3>
 </div>
 
 <!-- About Me / Portfolio -->
@@ -37,13 +37,12 @@
     <div class="row row-cols-1 row-cols-md-3 g-4">
       <?php
       $about = [
-        ['img' => '1.jpg', 'text' => 'Lahir di Kabupaten Tapanuli Tengah Sumatera Utara 20 Januari 2004.'],
-        ['img' => '2.jpg', 'text' => 'Sekolah Dasar di MIN 7 Tapanuli Tengah'],
-        ['img' => '7.jpg', 'text' => 'Sekolah Menengah pertama di MTS N Sibolga'],
-        ['img' => '3.jpg', 'text' => 'Sekolah Menengah Atas di MAN Sibolga dengan Jurusan MIPA dan Lulus di Tahun 2022.'],
-        ['img' => '4.jpg', 'text' => 'Kuliah di Universitas Islam Negeri Imam Bonjol Padang pada angkatan 2022.'],
-        ['img' => '5.jpg', 'text' => 'Fakultas Sains dan Teknologi dengan Program Studi Sistem Informasi.'],
-        ['img' => '6.jpg', 'text' => 'Hobi saya bermain game, mendengarkan musik, dan membaca novel. Warna kesukaan saya hitam.']
+        ['img' => '1.jpeg', 'text' => 'Lahir di Duri Riau pada tanggal 25 Mei 2004'],
+        ['img' => '2.jpeg', 'text' => 'Sekolah Dasar di SDS IT MUTIARA'],
+        ['img' => '3.jpeg', 'text' => 'Sekolah Menengah di SMPS IT MUTIARA'],
+        ['img' => '4.jpeg', 'text' => 'Sekolah Menengah Atas di SMAS IT MUTIARA'],
+        ['img' => '5.jpeg', 'text' => 'Sedang Melaksanakan Kuliah di Universitas Islam Negeri Imam Bonjol Padang'],
+        ['img' => '6.jpeg', 'text' => 'Hobi saya bermain game, menonton tv series, dan mendengarkan musik']
       ];
       foreach ($about as $item): ?>
         <div class="col mb-4">
@@ -60,7 +59,7 @@
 </section>
 
 <!-- Contact -->
-<section class="contact bg-light" id="contact">
+<section class="contact bg-light" id="contact" style="background: linear-gradient(135deg, #e0f7b3 0%, #e6f9cc 100%);">
   <div class="container">
     <div class="row pt-4 mb-4">
       <div class="col text-center">
@@ -73,15 +72,15 @@
         <div class="card bg-primary text-white mb-4 text-center">
           <div class="card-body">
             <h5 class="card-title">Contact Me</h5>
-            <p class="card-text">Feel free to reach out to me via the form or location below.</p>
+            <p class="card-text">Get my Contact here</p>
           </div>
         </div>
 
         <ul class="list-group mb-4">
           <li class="list-group-item"><h5><i class="bi bi-geo-alt-fill"></i> Location</h5></li>
           <li class="list-group-item">My Home</li>
-          <li class="list-group-item">Jl. Padat Karya Lingk. 2, Sibuluan Nauli, Tapanuli Tengah</li>
-          <li class="list-group-item">West Sumatera, Indonesia</li>
+          <li class="list-group-item">BTN Jl, Rokan Permai Duri,Riau Kabupaten Bengkalis</li>
+          <li class="list-group-item">Riau, Indonesia</li>
         </ul>
       </div>
 
@@ -112,7 +111,4 @@
   </div>
 </section>
 
-<!-- Footer -->
-<footer class="bg-dark text-white text-center py-3 mt-5">
-  <p class="mb-0">© <?= date('Y'); ?> Usran Bangun Fajar Hutagalung. All Rights Reserved.</p>
-</footer>
+
