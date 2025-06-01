@@ -69,72 +69,7 @@
     </section>
 
     
-    <!-- Youtube & IG -->
-     <section class="social bg-light" id="social">
-      <div class="container">
-        <div class="row pt-4 mb-4">
-          <div class="col text-center">
-            <h2>Social Media</h2>
-          </div>
-        </div>
-
-        <div class="row justify-content-center">
-          <div class="col-md-5">
-            <div class="row">
-              <div class="col md-4">
-                <img src="<?= $youtubeProfilePic; ?>" width="200" class="rounded-circle 
-                img-thumbnail">
-              </div>
-              <div class="col-md-8">
-                <h5><?= $channelName; ?></h5>
-                <p><?= $subscriber; ?> Subscriber.</p>
-                <div class="g-ytsubscribe" data-channelid="UC5djXA3ShHS9_Z12sB5QQ9Q" data-layout="default" data-count="default"></div>
-              </div>
-            </div>
-            <div class="row mt-3 pb-3">
-              <div class="col">
-                <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/<?= $latestVideoId; ?>" allowfullscreen></iframe>
-              </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-5">
-            <div class="row">
-              <div class="col md-4">
-                <img src="<?= $profilePictureIG; ?>" width="200" class="rounded-circle img-thumbnail">
-              </div>
-              <div class="col-md-8">
-                <h5><?= $usernameIG ?></h5>
-                <p><?= $followersIG ?> Followers.</p>
-              </div>
-            </div>
-
-            <div class="row mt-3 pb-3">
-              <div class="col">
-                <div class="ig-thumbnail">
-                  <img src="<?= $gambar1; ?>">
-                </div>
-                <div class="ig-thumbnail">
-                  <img src="<?= $gambar2; ?>">
-                </div>
-                <div class="ig-thumbnail">
-                  <img src="<?= $gambar3; ?>">
-                </div>
-                <div class="ig-thumbnail">
-                  <img src="<?= $gambar4; ?>">
-                </div>
-                <div class="ig-thumbnail">
-                  <img src="<?= $gambar5; ?>">
-                </div>
-              </div>
-            </div>
-
-          </div>
-        </div>
-      </div>
-     </section>
-
+    
 
     <!-- Portfolio -->
     <section class="portfolio" id="portfolio">
