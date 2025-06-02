@@ -1573,3 +1573,554 @@ INFO - 2025-06-01 21:17:42 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-cl
 INFO - 2025-06-01 21:17:42 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/footer.php
 INFO - 2025-06-01 21:17:42 --> Final output sent to browser
 DEBUG - 2025-06-01 21:17:42 --> Total execution time: 0.0425
+INFO - 2025-06-01 21:25:58 --> Config Class Initialized
+INFO - 2025-06-01 21:25:58 --> Hooks Class Initialized
+DEBUG - 2025-06-01 21:25:58 --> UTF-8 Support Enabled
+INFO - 2025-06-01 21:25:58 --> Utf8 Class Initialized
+INFO - 2025-06-01 21:25:58 --> URI Class Initialized
+DEBUG - 2025-06-01 21:25:58 --> No URI present. Default controller set.
+INFO - 2025-06-01 21:25:58 --> Router Class Initialized
+INFO - 2025-06-01 21:25:58 --> Output Class Initialized
+INFO - 2025-06-01 21:25:58 --> Security Class Initialized
+DEBUG - 2025-06-01 21:25:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 21:25:58 --> Input Class Initialized
+INFO - 2025-06-01 21:25:58 --> Language Class Initialized
+INFO - 2025-06-01 21:25:58 --> Loader Class Initialized
+INFO - 2025-06-01 21:25:58 --> Helper loaded: url_helper
+INFO - 2025-06-01 21:25:58 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 21:25:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 21:25:58 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 21:25:58 --> Controller Class Initialized
+INFO - 2025-06-01 21:25:58 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/header.php
+INFO - 2025-06-01 21:25:58 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\home/index.php
+INFO - 2025-06-01 21:25:58 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/footer.php
+INFO - 2025-06-01 21:25:58 --> Final output sent to browser
+DEBUG - 2025-06-01 21:25:58 --> Total execution time: 0.0811
+INFO - 2025-06-01 21:26:00 --> Config Class Initialized
+INFO - 2025-06-01 21:26:00 --> Hooks Class Initialized
+DEBUG - 2025-06-01 21:26:00 --> UTF-8 Support Enabled
+INFO - 2025-06-01 21:26:00 --> Utf8 Class Initialized
+INFO - 2025-06-01 21:26:00 --> URI Class Initialized
+INFO - 2025-06-01 21:26:00 --> Router Class Initialized
+INFO - 2025-06-01 21:26:00 --> Output Class Initialized
+INFO - 2025-06-01 21:26:00 --> Security Class Initialized
+DEBUG - 2025-06-01 21:26:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 21:26:00 --> Input Class Initialized
+INFO - 2025-06-01 21:26:00 --> Language Class Initialized
+INFO - 2025-06-01 21:26:00 --> Loader Class Initialized
+INFO - 2025-06-01 21:26:00 --> Helper loaded: url_helper
+INFO - 2025-06-01 21:26:00 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 21:26:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 21:26:00 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 21:26:00 --> Controller Class Initialized
+INFO - 2025-06-01 21:26:00 --> Model "Mahasiswa_model" initialized
+INFO - 2025-06-01 21:26:00 --> Helper loaded: form_helper
+INFO - 2025-06-01 21:26:00 --> Form Validation Class Initialized
+INFO - 2025-06-01 21:26:01 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/header.php
+INFO - 2025-06-01 21:26:01 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\mahasiswa/index.php
+INFO - 2025-06-01 21:26:01 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/footer.php
+INFO - 2025-06-01 21:26:01 --> Final output sent to browser
+DEBUG - 2025-06-01 21:26:01 --> Total execution time: 0.1930
+INFO - 2025-06-01 21:26:04 --> Config Class Initialized
+INFO - 2025-06-01 21:26:04 --> Hooks Class Initialized
+DEBUG - 2025-06-01 21:26:04 --> UTF-8 Support Enabled
+INFO - 2025-06-01 21:26:04 --> Utf8 Class Initialized
+INFO - 2025-06-01 21:26:04 --> URI Class Initialized
+INFO - 2025-06-01 21:26:04 --> Router Class Initialized
+INFO - 2025-06-01 21:26:04 --> Output Class Initialized
+INFO - 2025-06-01 21:26:04 --> Security Class Initialized
+DEBUG - 2025-06-01 21:26:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 21:26:04 --> Input Class Initialized
+INFO - 2025-06-01 21:26:04 --> Language Class Initialized
+INFO - 2025-06-01 21:26:04 --> Loader Class Initialized
+INFO - 2025-06-01 21:26:04 --> Helper loaded: url_helper
+INFO - 2025-06-01 21:26:04 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 21:26:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 21:26:04 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 21:26:04 --> Controller Class Initialized
+INFO - 2025-06-01 21:26:04 --> Model "Mahasiswa_model" initialized
+INFO - 2025-06-01 21:26:04 --> Helper loaded: form_helper
+INFO - 2025-06-01 21:26:04 --> Form Validation Class Initialized
+INFO - 2025-06-01 21:26:04 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/header.php
+INFO - 2025-06-01 21:26:04 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\mahasiswa/tambah.php
+INFO - 2025-06-01 21:26:04 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/footer.php
+INFO - 2025-06-01 21:26:04 --> Final output sent to browser
+DEBUG - 2025-06-01 21:26:04 --> Total execution time: 0.0646
+INFO - 2025-06-01 21:26:25 --> Config Class Initialized
+INFO - 2025-06-01 21:26:25 --> Hooks Class Initialized
+DEBUG - 2025-06-01 21:26:25 --> UTF-8 Support Enabled
+INFO - 2025-06-01 21:26:25 --> Utf8 Class Initialized
+INFO - 2025-06-01 21:26:25 --> URI Class Initialized
+INFO - 2025-06-01 21:26:25 --> Router Class Initialized
+INFO - 2025-06-01 21:26:25 --> Output Class Initialized
+INFO - 2025-06-01 21:26:25 --> Security Class Initialized
+DEBUG - 2025-06-01 21:26:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 21:26:25 --> Input Class Initialized
+INFO - 2025-06-01 21:26:25 --> Language Class Initialized
+INFO - 2025-06-01 21:26:25 --> Loader Class Initialized
+INFO - 2025-06-01 21:26:25 --> Helper loaded: url_helper
+INFO - 2025-06-01 21:26:25 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 21:26:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 21:26:25 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 21:26:25 --> Controller Class Initialized
+INFO - 2025-06-01 21:26:25 --> Model "Mahasiswa_model" initialized
+INFO - 2025-06-01 21:26:25 --> Helper loaded: form_helper
+INFO - 2025-06-01 21:26:25 --> Form Validation Class Initialized
+INFO - 2025-06-01 21:26:25 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2025-06-01 21:26:25 --> Severity: error --> Exception: Client error: `POST http://localhost/rest-api/wpu-rest-server/api/mahasiswa` resulted in a `403 Forbidden` response:
+{"status":false,"error":"Invalid API key "}
+ C:\xampp\htdocs\rest-api\wpu-rest-client\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php 113
+INFO - 2025-06-01 21:27:43 --> Config Class Initialized
+INFO - 2025-06-01 21:27:43 --> Hooks Class Initialized
+DEBUG - 2025-06-01 21:27:43 --> UTF-8 Support Enabled
+INFO - 2025-06-01 21:27:43 --> Utf8 Class Initialized
+INFO - 2025-06-01 21:27:43 --> URI Class Initialized
+INFO - 2025-06-01 21:27:43 --> Router Class Initialized
+INFO - 2025-06-01 21:27:43 --> Output Class Initialized
+INFO - 2025-06-01 21:27:43 --> Security Class Initialized
+DEBUG - 2025-06-01 21:27:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 21:27:43 --> Input Class Initialized
+INFO - 2025-06-01 21:27:43 --> Language Class Initialized
+INFO - 2025-06-01 21:27:43 --> Loader Class Initialized
+INFO - 2025-06-01 21:27:43 --> Helper loaded: url_helper
+INFO - 2025-06-01 21:27:43 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 21:27:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 21:27:43 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 21:27:43 --> Controller Class Initialized
+INFO - 2025-06-01 21:27:43 --> Model "Mahasiswa_model" initialized
+INFO - 2025-06-01 21:27:43 --> Helper loaded: form_helper
+INFO - 2025-06-01 21:27:43 --> Form Validation Class Initialized
+INFO - 2025-06-01 21:27:43 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/header.php
+INFO - 2025-06-01 21:27:43 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\mahasiswa/tambah.php
+INFO - 2025-06-01 21:27:43 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/footer.php
+INFO - 2025-06-01 21:27:43 --> Final output sent to browser
+DEBUG - 2025-06-01 21:27:43 --> Total execution time: 0.0567
+INFO - 2025-06-01 21:27:46 --> Config Class Initialized
+INFO - 2025-06-01 21:27:46 --> Hooks Class Initialized
+DEBUG - 2025-06-01 21:27:46 --> UTF-8 Support Enabled
+INFO - 2025-06-01 21:27:46 --> Utf8 Class Initialized
+INFO - 2025-06-01 21:27:46 --> URI Class Initialized
+INFO - 2025-06-01 21:27:46 --> Router Class Initialized
+INFO - 2025-06-01 21:27:46 --> Output Class Initialized
+INFO - 2025-06-01 21:27:46 --> Security Class Initialized
+DEBUG - 2025-06-01 21:27:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 21:27:46 --> Input Class Initialized
+INFO - 2025-06-01 21:27:46 --> Language Class Initialized
+INFO - 2025-06-01 21:27:46 --> Loader Class Initialized
+INFO - 2025-06-01 21:27:46 --> Helper loaded: url_helper
+INFO - 2025-06-01 21:27:46 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 21:27:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 21:27:46 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 21:27:46 --> Controller Class Initialized
+INFO - 2025-06-01 21:27:46 --> Model "Mahasiswa_model" initialized
+INFO - 2025-06-01 21:27:46 --> Helper loaded: form_helper
+INFO - 2025-06-01 21:27:46 --> Form Validation Class Initialized
+INFO - 2025-06-01 21:27:46 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/header.php
+INFO - 2025-06-01 21:27:46 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\mahasiswa/index.php
+INFO - 2025-06-01 21:27:46 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/footer.php
+INFO - 2025-06-01 21:27:46 --> Final output sent to browser
+DEBUG - 2025-06-01 21:27:46 --> Total execution time: 0.1233
+INFO - 2025-06-01 21:27:50 --> Config Class Initialized
+INFO - 2025-06-01 21:27:50 --> Hooks Class Initialized
+DEBUG - 2025-06-01 21:27:50 --> UTF-8 Support Enabled
+INFO - 2025-06-01 21:27:50 --> Utf8 Class Initialized
+INFO - 2025-06-01 21:27:50 --> URI Class Initialized
+INFO - 2025-06-01 21:27:50 --> Router Class Initialized
+INFO - 2025-06-01 21:27:50 --> Output Class Initialized
+INFO - 2025-06-01 21:27:50 --> Security Class Initialized
+DEBUG - 2025-06-01 21:27:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 21:27:50 --> Input Class Initialized
+INFO - 2025-06-01 21:27:50 --> Language Class Initialized
+INFO - 2025-06-01 21:27:50 --> Loader Class Initialized
+INFO - 2025-06-01 21:27:50 --> Helper loaded: url_helper
+INFO - 2025-06-01 21:27:50 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 21:27:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 21:27:50 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 21:27:50 --> Controller Class Initialized
+INFO - 2025-06-01 21:27:50 --> Model "Mahasiswa_model" initialized
+INFO - 2025-06-01 21:27:50 --> Helper loaded: form_helper
+INFO - 2025-06-01 21:27:50 --> Form Validation Class Initialized
+ERROR - 2025-06-01 21:27:50 --> Severity: error --> Exception: Client error: `GET http://localhost/rest-api/wpu-rest-server/api/mahasiswa?wpu-key=rahasia&id=5` resulted in a `403 Forbidden` response:
+{"status":false,"error":"Invalid API key "}
+ C:\xampp\htdocs\rest-api\wpu-rest-client\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php 113
+INFO - 2025-06-01 21:29:43 --> Config Class Initialized
+INFO - 2025-06-01 21:29:43 --> Hooks Class Initialized
+DEBUG - 2025-06-01 21:29:43 --> UTF-8 Support Enabled
+INFO - 2025-06-01 21:29:43 --> Utf8 Class Initialized
+INFO - 2025-06-01 21:29:43 --> URI Class Initialized
+INFO - 2025-06-01 21:29:43 --> Router Class Initialized
+INFO - 2025-06-01 21:29:43 --> Output Class Initialized
+INFO - 2025-06-01 21:29:43 --> Security Class Initialized
+DEBUG - 2025-06-01 21:29:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 21:29:43 --> Input Class Initialized
+INFO - 2025-06-01 21:29:43 --> Language Class Initialized
+INFO - 2025-06-01 21:29:43 --> Loader Class Initialized
+INFO - 2025-06-01 21:29:43 --> Helper loaded: url_helper
+INFO - 2025-06-01 21:29:43 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 21:29:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 21:29:43 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 21:29:43 --> Controller Class Initialized
+INFO - 2025-06-01 21:29:43 --> Model "Mahasiswa_model" initialized
+INFO - 2025-06-01 21:29:43 --> Helper loaded: form_helper
+INFO - 2025-06-01 21:29:43 --> Form Validation Class Initialized
+INFO - 2025-06-01 21:29:43 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/header.php
+INFO - 2025-06-01 21:29:43 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\mahasiswa/tambah.php
+INFO - 2025-06-01 21:29:43 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/footer.php
+INFO - 2025-06-01 21:29:43 --> Final output sent to browser
+DEBUG - 2025-06-01 21:29:43 --> Total execution time: 0.0643
+INFO - 2025-06-01 21:29:55 --> Config Class Initialized
+INFO - 2025-06-01 21:29:55 --> Hooks Class Initialized
+DEBUG - 2025-06-01 21:29:55 --> UTF-8 Support Enabled
+INFO - 2025-06-01 21:29:55 --> Utf8 Class Initialized
+INFO - 2025-06-01 21:29:55 --> URI Class Initialized
+INFO - 2025-06-01 21:29:55 --> Router Class Initialized
+INFO - 2025-06-01 21:29:55 --> Output Class Initialized
+INFO - 2025-06-01 21:29:55 --> Security Class Initialized
+DEBUG - 2025-06-01 21:29:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 21:29:55 --> Input Class Initialized
+INFO - 2025-06-01 21:29:55 --> Language Class Initialized
+INFO - 2025-06-01 21:29:55 --> Loader Class Initialized
+INFO - 2025-06-01 21:29:55 --> Helper loaded: url_helper
+INFO - 2025-06-01 21:29:55 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 21:29:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 21:29:55 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 21:29:55 --> Controller Class Initialized
+INFO - 2025-06-01 21:29:55 --> Model "Mahasiswa_model" initialized
+INFO - 2025-06-01 21:29:55 --> Helper loaded: form_helper
+INFO - 2025-06-01 21:29:55 --> Form Validation Class Initialized
+INFO - 2025-06-01 21:29:55 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2025-06-01 21:29:55 --> Severity: error --> Exception: Client error: `POST http://localhost/rest-api/wpu-rest-server/api/mahasiswa` resulted in a `403 Forbidden` response:
+{"status":false,"error":"Invalid API key "}
+ C:\xampp\htdocs\rest-api\wpu-rest-client\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php 113
+INFO - 2025-06-01 22:02:22 --> Config Class Initialized
+INFO - 2025-06-01 22:02:22 --> Hooks Class Initialized
+DEBUG - 2025-06-01 22:02:22 --> UTF-8 Support Enabled
+INFO - 2025-06-01 22:02:22 --> Utf8 Class Initialized
+INFO - 2025-06-01 22:02:22 --> URI Class Initialized
+INFO - 2025-06-01 22:02:22 --> Router Class Initialized
+INFO - 2025-06-01 22:02:22 --> Output Class Initialized
+INFO - 2025-06-01 22:02:22 --> Security Class Initialized
+DEBUG - 2025-06-01 22:02:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 22:02:22 --> Input Class Initialized
+INFO - 2025-06-01 22:02:22 --> Language Class Initialized
+INFO - 2025-06-01 22:02:22 --> Loader Class Initialized
+INFO - 2025-06-01 22:02:22 --> Helper loaded: url_helper
+INFO - 2025-06-01 22:02:22 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 22:02:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 22:02:22 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 22:02:22 --> Controller Class Initialized
+INFO - 2025-06-01 22:02:23 --> Model "Mahasiswa_model" initialized
+INFO - 2025-06-01 22:02:23 --> Helper loaded: form_helper
+INFO - 2025-06-01 22:02:23 --> Form Validation Class Initialized
+INFO - 2025-06-01 22:02:23 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/header.php
+INFO - 2025-06-01 22:02:23 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\mahasiswa/tambah.php
+INFO - 2025-06-01 22:02:23 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/footer.php
+INFO - 2025-06-01 22:02:23 --> Final output sent to browser
+DEBUG - 2025-06-01 22:02:23 --> Total execution time: 0.0973
+INFO - 2025-06-01 22:02:25 --> Config Class Initialized
+INFO - 2025-06-01 22:02:25 --> Hooks Class Initialized
+DEBUG - 2025-06-01 22:02:25 --> UTF-8 Support Enabled
+INFO - 2025-06-01 22:02:25 --> Utf8 Class Initialized
+INFO - 2025-06-01 22:02:25 --> URI Class Initialized
+INFO - 2025-06-01 22:02:25 --> Router Class Initialized
+INFO - 2025-06-01 22:02:25 --> Output Class Initialized
+INFO - 2025-06-01 22:02:25 --> Security Class Initialized
+DEBUG - 2025-06-01 22:02:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 22:02:25 --> Input Class Initialized
+INFO - 2025-06-01 22:02:25 --> Language Class Initialized
+INFO - 2025-06-01 22:02:25 --> Loader Class Initialized
+INFO - 2025-06-01 22:02:25 --> Helper loaded: url_helper
+INFO - 2025-06-01 22:02:25 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 22:02:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 22:02:25 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 22:02:25 --> Controller Class Initialized
+INFO - 2025-06-01 22:02:25 --> Model "Mahasiswa_model" initialized
+INFO - 2025-06-01 22:02:25 --> Helper loaded: form_helper
+INFO - 2025-06-01 22:02:25 --> Form Validation Class Initialized
+INFO - 2025-06-01 22:02:25 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2025-06-01 22:02:25 --> Severity: error --> Exception: Client error: `POST http://localhost/rest-api/wpu-rest-server/api/mahasiswa` resulted in a `403 Forbidden` response:
+{"status":false,"error":"Invalid API key "}
+ C:\xampp\htdocs\rest-api\wpu-rest-client\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php 113
+INFO - 2025-06-01 22:02:34 --> Config Class Initialized
+INFO - 2025-06-01 22:02:34 --> Hooks Class Initialized
+DEBUG - 2025-06-01 22:02:34 --> UTF-8 Support Enabled
+INFO - 2025-06-01 22:02:34 --> Utf8 Class Initialized
+INFO - 2025-06-01 22:02:34 --> URI Class Initialized
+INFO - 2025-06-01 22:02:34 --> Router Class Initialized
+INFO - 2025-06-01 22:02:34 --> Output Class Initialized
+INFO - 2025-06-01 22:02:34 --> Security Class Initialized
+DEBUG - 2025-06-01 22:02:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 22:02:34 --> Input Class Initialized
+INFO - 2025-06-01 22:02:34 --> Language Class Initialized
+INFO - 2025-06-01 22:02:34 --> Loader Class Initialized
+INFO - 2025-06-01 22:02:34 --> Helper loaded: url_helper
+INFO - 2025-06-01 22:02:34 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 22:02:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 22:02:34 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 22:02:34 --> Controller Class Initialized
+INFO - 2025-06-01 22:02:34 --> Model "Mahasiswa_model" initialized
+INFO - 2025-06-01 22:02:34 --> Helper loaded: form_helper
+INFO - 2025-06-01 22:02:34 --> Form Validation Class Initialized
+INFO - 2025-06-01 22:02:34 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2025-06-01 22:02:34 --> Severity: error --> Exception: Client error: `POST http://localhost/rest-api/wpu-rest-server/api/mahasiswa` resulted in a `403 Forbidden` response:
+{"status":false,"error":"Invalid API key "}
+ C:\xampp\htdocs\rest-api\wpu-rest-client\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php 113
+INFO - 2025-06-01 22:02:38 --> Config Class Initialized
+INFO - 2025-06-01 22:02:38 --> Hooks Class Initialized
+DEBUG - 2025-06-01 22:02:38 --> UTF-8 Support Enabled
+INFO - 2025-06-01 22:02:38 --> Utf8 Class Initialized
+INFO - 2025-06-01 22:02:38 --> URI Class Initialized
+INFO - 2025-06-01 22:02:38 --> Router Class Initialized
+INFO - 2025-06-01 22:02:38 --> Output Class Initialized
+INFO - 2025-06-01 22:02:38 --> Security Class Initialized
+DEBUG - 2025-06-01 22:02:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 22:02:38 --> Input Class Initialized
+INFO - 2025-06-01 22:02:38 --> Language Class Initialized
+INFO - 2025-06-01 22:02:38 --> Loader Class Initialized
+INFO - 2025-06-01 22:02:38 --> Helper loaded: url_helper
+INFO - 2025-06-01 22:02:38 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 22:02:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 22:02:38 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 22:02:38 --> Controller Class Initialized
+INFO - 2025-06-01 22:02:38 --> Model "Mahasiswa_model" initialized
+INFO - 2025-06-01 22:02:38 --> Helper loaded: form_helper
+INFO - 2025-06-01 22:02:38 --> Form Validation Class Initialized
+INFO - 2025-06-01 22:02:38 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2025-06-01 22:02:38 --> Severity: error --> Exception: Client error: `POST http://localhost/rest-api/wpu-rest-server/api/mahasiswa` resulted in a `403 Forbidden` response:
+{"status":false,"error":"Invalid API key "}
+ C:\xampp\htdocs\rest-api\wpu-rest-client\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php 113
+INFO - 2025-06-01 22:02:40 --> Config Class Initialized
+INFO - 2025-06-01 22:02:40 --> Hooks Class Initialized
+DEBUG - 2025-06-01 22:02:40 --> UTF-8 Support Enabled
+INFO - 2025-06-01 22:02:40 --> Utf8 Class Initialized
+INFO - 2025-06-01 22:02:40 --> URI Class Initialized
+INFO - 2025-06-01 22:02:40 --> Router Class Initialized
+INFO - 2025-06-01 22:02:40 --> Output Class Initialized
+INFO - 2025-06-01 22:02:40 --> Security Class Initialized
+DEBUG - 2025-06-01 22:02:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 22:02:40 --> Input Class Initialized
+INFO - 2025-06-01 22:02:40 --> Language Class Initialized
+INFO - 2025-06-01 22:02:40 --> Loader Class Initialized
+INFO - 2025-06-01 22:02:40 --> Helper loaded: url_helper
+INFO - 2025-06-01 22:02:40 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 22:02:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 22:02:40 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 22:02:40 --> Controller Class Initialized
+INFO - 2025-06-01 22:02:40 --> Model "Mahasiswa_model" initialized
+INFO - 2025-06-01 22:02:40 --> Helper loaded: form_helper
+INFO - 2025-06-01 22:02:40 --> Form Validation Class Initialized
+INFO - 2025-06-01 22:02:40 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/header.php
+INFO - 2025-06-01 22:02:40 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\mahasiswa/tambah.php
+INFO - 2025-06-01 22:02:40 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/footer.php
+INFO - 2025-06-01 22:02:40 --> Final output sent to browser
+DEBUG - 2025-06-01 22:02:40 --> Total execution time: 0.0469
+INFO - 2025-06-01 22:02:43 --> Config Class Initialized
+INFO - 2025-06-01 22:02:43 --> Hooks Class Initialized
+DEBUG - 2025-06-01 22:02:43 --> UTF-8 Support Enabled
+INFO - 2025-06-01 22:02:43 --> Utf8 Class Initialized
+INFO - 2025-06-01 22:02:43 --> URI Class Initialized
+INFO - 2025-06-01 22:02:43 --> Router Class Initialized
+INFO - 2025-06-01 22:02:43 --> Output Class Initialized
+INFO - 2025-06-01 22:02:43 --> Security Class Initialized
+DEBUG - 2025-06-01 22:02:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 22:02:43 --> Input Class Initialized
+INFO - 2025-06-01 22:02:43 --> Language Class Initialized
+INFO - 2025-06-01 22:02:43 --> Loader Class Initialized
+INFO - 2025-06-01 22:02:43 --> Helper loaded: url_helper
+INFO - 2025-06-01 22:02:43 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 22:02:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 22:02:43 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 22:02:43 --> Controller Class Initialized
+INFO - 2025-06-01 22:02:43 --> Model "Mahasiswa_model" initialized
+INFO - 2025-06-01 22:02:43 --> Helper loaded: form_helper
+INFO - 2025-06-01 22:02:43 --> Form Validation Class Initialized
+INFO - 2025-06-01 22:02:43 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/header.php
+INFO - 2025-06-01 22:02:43 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\mahasiswa/index.php
+INFO - 2025-06-01 22:02:43 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/footer.php
+INFO - 2025-06-01 22:02:43 --> Final output sent to browser
+DEBUG - 2025-06-01 22:02:43 --> Total execution time: 0.1004
+INFO - 2025-06-01 22:02:49 --> Config Class Initialized
+INFO - 2025-06-01 22:02:49 --> Hooks Class Initialized
+DEBUG - 2025-06-01 22:02:49 --> UTF-8 Support Enabled
+INFO - 2025-06-01 22:02:49 --> Utf8 Class Initialized
+INFO - 2025-06-01 22:02:49 --> URI Class Initialized
+INFO - 2025-06-01 22:02:49 --> Router Class Initialized
+INFO - 2025-06-01 22:02:49 --> Output Class Initialized
+INFO - 2025-06-01 22:02:49 --> Security Class Initialized
+DEBUG - 2025-06-01 22:02:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 22:02:49 --> Input Class Initialized
+INFO - 2025-06-01 22:02:49 --> Language Class Initialized
+INFO - 2025-06-01 22:02:49 --> Loader Class Initialized
+INFO - 2025-06-01 22:02:49 --> Helper loaded: url_helper
+INFO - 2025-06-01 22:02:49 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 22:02:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 22:02:49 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 22:02:49 --> Controller Class Initialized
+INFO - 2025-06-01 22:02:49 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/header.php
+INFO - 2025-06-01 22:02:49 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\home/index.php
+INFO - 2025-06-01 22:02:49 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/footer.php
+INFO - 2025-06-01 22:02:49 --> Final output sent to browser
+DEBUG - 2025-06-01 22:02:49 --> Total execution time: 0.0297
+INFO - 2025-06-01 22:02:51 --> Config Class Initialized
+INFO - 2025-06-01 22:02:51 --> Hooks Class Initialized
+DEBUG - 2025-06-01 22:02:51 --> UTF-8 Support Enabled
+INFO - 2025-06-01 22:02:51 --> Utf8 Class Initialized
+INFO - 2025-06-01 22:02:51 --> URI Class Initialized
+INFO - 2025-06-01 22:02:51 --> Router Class Initialized
+INFO - 2025-06-01 22:02:51 --> Output Class Initialized
+INFO - 2025-06-01 22:02:51 --> Security Class Initialized
+DEBUG - 2025-06-01 22:02:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 22:02:51 --> Input Class Initialized
+INFO - 2025-06-01 22:02:51 --> Language Class Initialized
+INFO - 2025-06-01 22:02:51 --> Loader Class Initialized
+INFO - 2025-06-01 22:02:51 --> Helper loaded: url_helper
+INFO - 2025-06-01 22:02:51 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 22:02:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 22:02:51 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 22:02:51 --> Controller Class Initialized
+INFO - 2025-06-01 22:02:51 --> Model "Mahasiswa_model" initialized
+INFO - 2025-06-01 22:02:51 --> Helper loaded: form_helper
+INFO - 2025-06-01 22:02:51 --> Form Validation Class Initialized
+INFO - 2025-06-01 22:02:51 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/header.php
+INFO - 2025-06-01 22:02:51 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\mahasiswa/index.php
+INFO - 2025-06-01 22:02:51 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/footer.php
+INFO - 2025-06-01 22:02:51 --> Final output sent to browser
+DEBUG - 2025-06-01 22:02:51 --> Total execution time: 0.1254
+INFO - 2025-06-01 22:02:53 --> Config Class Initialized
+INFO - 2025-06-01 22:02:53 --> Hooks Class Initialized
+DEBUG - 2025-06-01 22:02:53 --> UTF-8 Support Enabled
+INFO - 2025-06-01 22:02:53 --> Utf8 Class Initialized
+INFO - 2025-06-01 22:02:53 --> URI Class Initialized
+INFO - 2025-06-01 22:02:53 --> Router Class Initialized
+INFO - 2025-06-01 22:02:53 --> Output Class Initialized
+INFO - 2025-06-01 22:02:53 --> Security Class Initialized
+DEBUG - 2025-06-01 22:02:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 22:02:53 --> Input Class Initialized
+INFO - 2025-06-01 22:02:53 --> Language Class Initialized
+INFO - 2025-06-01 22:02:53 --> Loader Class Initialized
+INFO - 2025-06-01 22:02:53 --> Helper loaded: url_helper
+INFO - 2025-06-01 22:02:53 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 22:02:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 22:02:53 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 22:02:53 --> Controller Class Initialized
+INFO - 2025-06-01 22:02:53 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/header.php
+INFO - 2025-06-01 22:02:53 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\about/index.php
+INFO - 2025-06-01 22:02:53 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/footer.php
+INFO - 2025-06-01 22:02:53 --> Final output sent to browser
+DEBUG - 2025-06-01 22:02:53 --> Total execution time: 0.0363
+INFO - 2025-06-01 22:02:55 --> Config Class Initialized
+INFO - 2025-06-01 22:02:55 --> Hooks Class Initialized
+DEBUG - 2025-06-01 22:02:55 --> UTF-8 Support Enabled
+INFO - 2025-06-01 22:02:55 --> Utf8 Class Initialized
+INFO - 2025-06-01 22:02:55 --> URI Class Initialized
+INFO - 2025-06-01 22:02:55 --> Router Class Initialized
+INFO - 2025-06-01 22:02:55 --> Output Class Initialized
+INFO - 2025-06-01 22:02:55 --> Security Class Initialized
+DEBUG - 2025-06-01 22:02:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 22:02:55 --> Input Class Initialized
+INFO - 2025-06-01 22:02:55 --> Language Class Initialized
+INFO - 2025-06-01 22:02:55 --> Loader Class Initialized
+INFO - 2025-06-01 22:02:55 --> Helper loaded: url_helper
+INFO - 2025-06-01 22:02:55 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 22:02:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 22:02:55 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 22:02:55 --> Controller Class Initialized
+INFO - 2025-06-01 22:02:55 --> Model "Mahasiswa_model" initialized
+INFO - 2025-06-01 22:02:55 --> Helper loaded: form_helper
+INFO - 2025-06-01 22:02:55 --> Form Validation Class Initialized
+INFO - 2025-06-01 22:02:55 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/header.php
+INFO - 2025-06-01 22:02:55 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\mahasiswa/index.php
+INFO - 2025-06-01 22:02:55 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/footer.php
+INFO - 2025-06-01 22:02:55 --> Final output sent to browser
+DEBUG - 2025-06-01 22:02:55 --> Total execution time: 0.1121
+INFO - 2025-06-01 22:02:56 --> Config Class Initialized
+INFO - 2025-06-01 22:02:56 --> Hooks Class Initialized
+DEBUG - 2025-06-01 22:02:56 --> UTF-8 Support Enabled
+INFO - 2025-06-01 22:02:56 --> Utf8 Class Initialized
+INFO - 2025-06-01 22:02:56 --> URI Class Initialized
+INFO - 2025-06-01 22:02:56 --> Router Class Initialized
+INFO - 2025-06-01 22:02:56 --> Output Class Initialized
+INFO - 2025-06-01 22:02:56 --> Security Class Initialized
+DEBUG - 2025-06-01 22:02:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 22:02:56 --> Input Class Initialized
+INFO - 2025-06-01 22:02:56 --> Language Class Initialized
+INFO - 2025-06-01 22:02:56 --> Loader Class Initialized
+INFO - 2025-06-01 22:02:56 --> Helper loaded: url_helper
+INFO - 2025-06-01 22:02:56 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 22:02:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 22:02:56 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 22:02:56 --> Controller Class Initialized
+INFO - 2025-06-01 22:02:56 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/header.php
+INFO - 2025-06-01 22:02:56 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\home/index.php
+INFO - 2025-06-01 22:02:56 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/footer.php
+INFO - 2025-06-01 22:02:56 --> Final output sent to browser
+DEBUG - 2025-06-01 22:02:56 --> Total execution time: 0.0394
+INFO - 2025-06-01 22:02:58 --> Config Class Initialized
+INFO - 2025-06-01 22:02:58 --> Hooks Class Initialized
+DEBUG - 2025-06-01 22:02:58 --> UTF-8 Support Enabled
+INFO - 2025-06-01 22:02:58 --> Utf8 Class Initialized
+INFO - 2025-06-01 22:02:58 --> URI Class Initialized
+INFO - 2025-06-01 22:02:58 --> Router Class Initialized
+INFO - 2025-06-01 22:02:58 --> Output Class Initialized
+INFO - 2025-06-01 22:02:58 --> Security Class Initialized
+DEBUG - 2025-06-01 22:02:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 22:02:58 --> Input Class Initialized
+INFO - 2025-06-01 22:02:58 --> Language Class Initialized
+INFO - 2025-06-01 22:02:58 --> Loader Class Initialized
+INFO - 2025-06-01 22:02:58 --> Helper loaded: url_helper
+INFO - 2025-06-01 22:02:58 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 22:02:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 22:02:58 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 22:02:58 --> Controller Class Initialized
+INFO - 2025-06-01 22:02:58 --> Model "Mahasiswa_model" initialized
+INFO - 2025-06-01 22:02:58 --> Helper loaded: form_helper
+INFO - 2025-06-01 22:02:58 --> Form Validation Class Initialized
+INFO - 2025-06-01 22:02:58 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/header.php
+INFO - 2025-06-01 22:02:58 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\mahasiswa/index.php
+INFO - 2025-06-01 22:02:58 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/footer.php
+INFO - 2025-06-01 22:02:58 --> Final output sent to browser
+DEBUG - 2025-06-01 22:02:58 --> Total execution time: 0.0903
+INFO - 2025-06-01 22:04:42 --> Config Class Initialized
+INFO - 2025-06-01 22:04:42 --> Hooks Class Initialized
+DEBUG - 2025-06-01 22:04:42 --> UTF-8 Support Enabled
+INFO - 2025-06-01 22:04:42 --> Utf8 Class Initialized
+INFO - 2025-06-01 22:04:42 --> URI Class Initialized
+INFO - 2025-06-01 22:04:42 --> Router Class Initialized
+INFO - 2025-06-01 22:04:42 --> Output Class Initialized
+INFO - 2025-06-01 22:04:42 --> Security Class Initialized
+DEBUG - 2025-06-01 22:04:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 22:04:42 --> Input Class Initialized
+INFO - 2025-06-01 22:04:42 --> Language Class Initialized
+INFO - 2025-06-01 22:04:42 --> Loader Class Initialized
+INFO - 2025-06-01 22:04:42 --> Helper loaded: url_helper
+INFO - 2025-06-01 22:04:42 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 22:04:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 22:04:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 22:04:42 --> Controller Class Initialized
+INFO - 2025-06-01 22:04:42 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/header.php
+INFO - 2025-06-01 22:04:42 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\home/index.php
+INFO - 2025-06-01 22:04:42 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/footer.php
+INFO - 2025-06-01 22:04:42 --> Final output sent to browser
+DEBUG - 2025-06-01 22:04:42 --> Total execution time: 0.0380
+INFO - 2025-06-01 22:05:23 --> Config Class Initialized
+INFO - 2025-06-01 22:05:23 --> Hooks Class Initialized
+DEBUG - 2025-06-01 22:05:23 --> UTF-8 Support Enabled
+INFO - 2025-06-01 22:05:23 --> Utf8 Class Initialized
+INFO - 2025-06-01 22:05:23 --> URI Class Initialized
+INFO - 2025-06-01 22:05:23 --> Router Class Initialized
+INFO - 2025-06-01 22:05:23 --> Output Class Initialized
+INFO - 2025-06-01 22:05:23 --> Security Class Initialized
+DEBUG - 2025-06-01 22:05:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-01 22:05:23 --> Input Class Initialized
+INFO - 2025-06-01 22:05:23 --> Language Class Initialized
+INFO - 2025-06-01 22:05:23 --> Loader Class Initialized
+INFO - 2025-06-01 22:05:23 --> Helper loaded: url_helper
+INFO - 2025-06-01 22:05:23 --> Database Driver Class Initialized
+DEBUG - 2025-06-01 22:05:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-01 22:05:23 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-01 22:05:23 --> Controller Class Initialized
+INFO - 2025-06-01 22:05:23 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/header.php
+INFO - 2025-06-01 22:05:23 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\about/index.php
+INFO - 2025-06-01 22:05:23 --> File loaded: C:\xampp\htdocs\rest-api\wpu-rest-client\application\views\templates/footer.php
+INFO - 2025-06-01 22:05:23 --> Final output sent to browser
+DEBUG - 2025-06-01 22:05:23 --> Total execution time: 0.0298

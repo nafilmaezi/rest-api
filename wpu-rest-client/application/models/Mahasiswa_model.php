@@ -28,7 +28,7 @@ class Mahasiswa_model extends CI_model {
     {
         $response = $this->_client->request('get', 'mahasiswa', [
             'query' => [
-                'wpu-key' => 'rahasia',
+                'wpu-key' => 'wpu123',
                 'id' => $id
             ]
         ]);
@@ -45,7 +45,7 @@ class Mahasiswa_model extends CI_model {
             "nrp" => $this->input->post('nrp', true),
             "email" => $this->input->post('email', true),
             "jurusan" => $this->input->post('jurusan', true),
-            'wpu-key' => 'rahasia'
+            'wpu-key' => 'wpu123'
         ];
 
         $response = $this->_client->request('POST', 'mahasiswa', [
@@ -61,7 +61,7 @@ class Mahasiswa_model extends CI_model {
     {
        $response = $this->_client->request('DELETE', 'mahasiswa', [
             'form_params' => [
-                'wpu-key' => 'rahasia',
+                'wpu-key' => 'wpu123',
                 'id' => $id
             ]
        ]);
@@ -78,7 +78,7 @@ class Mahasiswa_model extends CI_model {
             "email" => $this->input->post('email', true),
             "jurusan" => $this->input->post('jurusan', true),
             "id" => $this->input->post('id', true),
-            'wpu-key' => 'rahasia'
+            'wpu-key' => 'wpu123'
         ];
 
         $response = $this->_client->request('PUT', 'mahasiswa', [
